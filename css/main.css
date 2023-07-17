@@ -576,6 +576,22 @@ video {
   left: 20rem;
 }
 
+.bottom-52 {
+  bottom: 13rem;
+}
+
+.top-52 {
+  top: 13rem;
+}
+
+.top-20 {
+  top: 5rem;
+}
+
+.left-48 {
+  left: 12rem;
+}
+
 .m-auto {
   margin: auto;
 }
@@ -714,6 +730,11 @@ video {
 .bg-red-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(250 204 21 / var(--tw-bg-opacity));
 }
 
 .p-6 {
